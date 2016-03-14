@@ -1,0 +1,1089 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="Javac" />
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="CopyrightManager" default="" />
+  <component name="Cvs2Configuration">
+    <option name="SHOW_OUTPUT" value="true" />
+  </component>
+  <component name="Encoding">
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+  <component name="InspectionProjectProfileManager">
+    <profile version="1.0">
+      <option name="myName" value="Project Default" />
+      <option name="myLocal" value="true" />
+      <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+        <option name="processCode" value="true" />
+        <option name="processLiterals" value="true" />
+        <option name="processComments" value="true" />
+      </inspection_tool>
+    </profile>
+    <option name="PROJECT_PROFILE" value="Project Default" />
+    <option name="USE_PROJECT_PROFILE" value="true" />
+    <version value="1.0" />
+  </component>
+  <component name="IntelliCalc">
+    <mode value="0" />
+    <system value="10" />
+    <angles value="deg" />
+  </component>
+  <component name="JavaScriptLibraryMappings">
+    <file url="PROJECT" libraries="{meteor-packages-auto-import-browser, meteor-packages-auto-import-os}" />
+    <includedPredefinedLibrary name="Meteor project library" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="Palette2">
+    <group name="Swing">
+      <item class="com.intellij.uiDesigner.HSpacer" tooltip-text="Horizontal Spacer" icon="/com/intellij/uiDesigner/icons/hspacer.png" removable="false" auto-create-binding="false" can-attach-label="false">
+        <default-constraints vsize-policy="1" hsize-policy="6" anchor="0" fill="1" />
+      </item>
+      <item class="com.intellij.uiDesigner.VSpacer" tooltip-text="Vertical Spacer" icon="/com/intellij/uiDesigner/icons/vspacer.png" removable="false" auto-create-binding="false" can-attach-label="false">
+        <default-constraints vsize-policy="6" hsize-policy="1" anchor="0" fill="2" />
+      </item>
+      <item class="javax.swing.JPanel" icon="/com/intellij/uiDesigner/icons/panel.png" removable="false" auto-create-binding="false" can-attach-label="false">
+        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3" />
+      </item>
+      <item class="javax.swing.JScrollPane" icon="/com/intellij/uiDesigner/icons/scrollPane.png" removable="false" auto-create-binding="false" can-attach-label="true">
+        <default-constraints vsize-policy="7" hsize-policy="7" anchor="0" fill="3" />
+      </item>
+      <item class="javax.swing.JButton" icon="/com/intellij/uiDesigner/icons/button.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="0" hsize-policy="3" anchor="0" fill="1" />
+        <initial-values>
+          <property name="text" value="Button" />
+        </initial-values>
+      </item>
+      <item class="javax.swing.JRadioButton" icon="/com/intellij/uiDesigner/icons/radioButton.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="0" hsize-policy="3" anchor="8" fill="0" />
+        <initial-values>
+          <property name="text" value="RadioButton" />
+        </initial-values>
+      </item>
+      <item class="javax.swing.JCheckBox" icon="/com/intellij/uiDesigner/icons/checkBox.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="0" hsize-policy="3" anchor="8" fill="0" />
+        <initial-values>
+          <property name="text" value="CheckBox" />
+        </initial-values>
+      </item>
+      <item class="javax.swing.JLabel" icon="/com/intellij/uiDesigner/icons/label.png" removable="false" auto-create-binding="false" can-attach-label="false">
+        <default-constraints vsize-policy="0" hsize-policy="0" anchor="8" fill="0" />
+        <initial-values>
+          <property name="text" value="Label" />
+        </initial-values>
+      </item>
+      <item class="javax.swing.JTextField" icon="/com/intellij/uiDesigner/icons/textField.png" removable="false" auto-create-binding="true" can-attach-label="true">
+        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
+          <preferred-size width="150" height="-1" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JPasswordField" icon="/com/intellij/uiDesigner/icons/passwordField.png" removable="false" auto-create-binding="true" can-attach-label="true">
+        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
+          <preferred-size width="150" height="-1" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JFormattedTextField" icon="/com/intellij/uiDesigner/icons/formattedTextField.png" removable="false" auto-create-binding="true" can-attach-label="true">
+        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
+          <preferred-size width="150" height="-1" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JTextArea" icon="/com/intellij/uiDesigner/icons/textArea.png" removable="false" auto-create-binding="true" can-attach-label="true">
+        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+          <preferred-size width="150" height="50" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JTextPane" icon="/com/intellij/uiDesigner/icons/textPane.png" removable="false" auto-create-binding="true" can-attach-label="true">
+        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+          <preferred-size width="150" height="50" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JEditorPane" icon="/com/intellij/uiDesigner/icons/editorPane.png" removable="false" auto-create-binding="true" can-attach-label="true">
+        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+          <preferred-size width="150" height="50" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JComboBox" icon="/com/intellij/uiDesigner/icons/comboBox.png" removable="false" auto-create-binding="true" can-attach-label="true">
+        <default-constraints vsize-policy="0" hsize-policy="2" anchor="8" fill="1" />
+      </item>
+      <item class="javax.swing.JTable" icon="/com/intellij/uiDesigner/icons/table.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+          <preferred-size width="150" height="50" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JList" icon="/com/intellij/uiDesigner/icons/list.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="6" hsize-policy="2" anchor="0" fill="3">
+          <preferred-size width="150" height="50" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JTree" icon="/com/intellij/uiDesigner/icons/tree.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+          <preferred-size width="150" height="50" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JTabbedPane" icon="/com/intellij/uiDesigner/icons/tabbedPane.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3">
+          <preferred-size width="200" height="200" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JSplitPane" icon="/com/intellij/uiDesigner/icons/splitPane.png" removable="false" auto-create-binding="false" can-attach-label="false">
+        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3">
+          <preferred-size width="200" height="200" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JSpinner" icon="/com/intellij/uiDesigner/icons/spinner.png" removable="false" auto-create-binding="true" can-attach-label="true">
+        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1" />
+      </item>
+      <item class="javax.swing.JSlider" icon="/com/intellij/uiDesigner/icons/slider.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1" />
+      </item>
+      <item class="javax.swing.JSeparator" icon="/com/intellij/uiDesigner/icons/separator.png" removable="false" auto-create-binding="false" can-attach-label="false">
+        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3" />
+      </item>
+      <item class="javax.swing.JProgressBar" icon="/com/intellij/uiDesigner/icons/progressbar.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="0" hsize-policy="6" anchor="0" fill="1" />
+      </item>
+      <item class="javax.swing.JToolBar" icon="/com/intellij/uiDesigner/icons/toolbar.png" removable="false" auto-create-binding="false" can-attach-label="false">
+        <default-constraints vsize-policy="0" hsize-policy="6" anchor="0" fill="1">
+          <preferred-size width="-1" height="20" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JToolBar$Separator" icon="/com/intellij/uiDesigner/icons/toolbarSeparator.png" removable="false" auto-create-binding="false" can-attach-label="false">
+        <default-constraints vsize-policy="0" hsize-policy="0" anchor="0" fill="1" />
+      </item>
+      <item class="javax.swing.JScrollBar" icon="/com/intellij/uiDesigner/icons/scrollbar.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="6" hsize-policy="0" anchor="0" fill="2" />
+      </item>
+    </group>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RecipeBook.iml" filepath="$PROJECT_DIR$/RecipeBook.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="Go 1.4.2" project-jdk-type="Go SDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="ujkk02942730.juniar-rakhman.koding.io">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+  <component name="libraryTable">
+    <library name="meteor-packages-auto-import-browser" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/date/date.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/url/url.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/tel/tel.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/components/afEachArrayItem/afEachArrayItem.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/components/afQuickFields/afQuickFields.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/components/afObjectField/afObjectField.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/components/afQuickField/afQuickField.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/components/afFieldInput/afFieldInput.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/month/month.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/image/image.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/email/email.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/color/color.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/week/week.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/time/time.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/text/text.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/file/file.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/search/search.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/select/select.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/hidden/hidden.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/number/number.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/reset/reset.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-password/1.1.4/web.browser/password_client.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/button/button.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/radio/radio.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/range/range.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/boolean-select/boolean-select.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/datetime-local/datetime-local.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/select-radio/select-radio.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/boolean-radios/boolean-radios.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/password/password.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/textarea/textarea.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/submit/submit.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/datetime/datetime.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/select-checkbox-inline/select-checkbox-inline.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/select-radio-inline/select-radio-inline.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/select-checkbox/select-checkbox.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/contenteditable/contenteditable.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/boolean-checkbox/boolean-checkbox.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/select-multiple/select-multiple.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-base/1.2.2/web.browser/globals_client.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-base/1.2.2/web.browser/accounts_client.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-base/1.2.2/web.browser/url_client.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-base/1.2.2/web.browser/localstorage_token.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-base/1.2.2/web.browser/accounts_common.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-base/1.2.2/web.browser/accounts_rate_limit.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/plain/components/afObjectField/afObjectField.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/bootstrap3/components/quickForm/quickForm.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/bootstrap3/components/afFormGroup/afFormGroup.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/plain/components/quickForm/quickForm.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/url/1.0.5/web.browser/url_common.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/url/1.0.5/web.browser/url_client.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/underscore/1.0.4/web.browser/pre.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/bootstrap3/components/afObjectField/afObjectField.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/underscore/1.0.4/web.browser/post.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/bootstrap3/components/afArrayField/afArrayField.css" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/underscore/1.0.4/web.browser/underscore.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/bootstrap3/inputTypes/radio/radio.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/tracker/1.0.9/web.browser/deprecated.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/tracker/1.0.9/web.browser/tracker.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/templating-tools/1.0.0/web.browser/throw-compile-error.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/templating-tools/1.0.0/web.browser/code-generation.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/templating-tools/1.0.0/web.browser/compile-tags-with-spacebars.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/templating-tools/1.0.0/web.browser/templating-tools.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/templating-tools/1.0.0/web.browser/html-scanner.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/spacebars-compiler/1.0.7/web.browser/templatetag.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/bootstrap3/inputTypes/boolean-radios/boolean-radios.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/spacebars-compiler/1.0.7/web.browser/react.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/bootstrap3/inputTypes/select-radio/select-radio.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/bootstrap3/inputTypes/select-radio-inline/select-radio-inline.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/spacebars-compiler/1.0.7/web.browser/codegen.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/bootstrap3/inputTypes/select-radio-inline/select-radio-inline.css" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/spacebars-compiler/1.0.7/web.browser/compiler.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/bootstrap3/inputTypes/select-checkbox-inline/select-checkbox-inline.css" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/spacebars-compiler/1.0.7/web.browser/optimizer.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/bootstrap3/inputTypes/select-checkbox-inline/select-checkbox-inline.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/bootstrap3/inputTypes/select-checkbox/select-checkbox.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/spacebars/1.0.7/web.browser/spacebars-runtime.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/bootstrap3-horizontal/components/afArrayField/afArrayField.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/bootstrap3-horizontal/components/afObjectField/afObjectField.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/bootstrap3-horizontal/components/quickForm/quickForm.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/session/1.1.1/web.browser/session.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/bootstrap3-horizontal/components/afFormGroup/afFormGroup.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/bootstrap3-horizontal/inputTypes/boolean-checkbox/boolean-checkbox.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/retry/1.0.4/web.browser/retry.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/reload/1.1.4/web.browser/reload.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/reload/1.1.4/web.browser/deprecated.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_schema-deny/1.0.1/web.browser/lib/deny.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/reactive-var/1.0.6/web.browser/reactive-var.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_collection2-core/1.1.0/web.browser/lib/collection2.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/srp/1.0.4/web.browser/biginteger.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_schema-index/1.0.1/web.browser/lib/indexing.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_simple-schema/1.5.3/web.browser/simple-schema-context.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_simple-schema/1.5.3/web.browser/simple-schema.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_simple-schema/1.5.3/web.browser/string-polyfills.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_simple-schema/1.5.3/web.browser/string-humanize.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_simple-schema/1.5.3/web.browser/simple-schema-validation.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_simple-schema/1.5.3/web.browser/simple-schema-utility.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_simple-schema/1.5.3/web.browser/simple-schema-validation-new.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_simple-schema/1.5.3/web.browser/mongo-object.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/erasaur_meteor-lodash/4.0.0/web.browser/lodash/lodash.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/erasaur_meteor-lodash/4.0.0/web.browser/export.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/fortawesome_fontawesome/4.5.0/web.browser/upstream/css/font-awesome.css" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/gwendall_auth-client-callbacks/0.1.0/web.browser/packages/gwendall_auth-client-callbacks.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/kadira_blaze-layout/2.3.0/web.browser/lib/client/namespace.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/kadira_blaze-layout/2.3.0/web.browser/lib/client/layout.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/webapp/1.2.3/web.browser/webapp_client.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/kadira_flow-router/2.10.1/web.browser/client.browserify.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/kadira_flow-router/2.10.1/web.browser/lib/router.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/kadira_flow-router/2.10.1/web.browser/client/route.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ecmascript-runtime/0.2.6/web.browser/.npm/package/node_modules/meteor-ecmascript-runtime/client.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/mdg_validation-error/0.2.0/web.browser/validation-error.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/sha/1.0.4/web.browser/sha256.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ejson/1.0.7/web.browser/stringify.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/srp/1.0.4/web.browser/srp.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ejson/1.0.7/web.browser/ejson.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/es5-shim/4.1.14/web.browser/import_globals.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/rate-limit/1.0.0/web.browser/rate-limit.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/es5-shim/4.1.14/web.browser/export_globals.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/es5-shim/4.1.14/web.browser/console.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/service-configuration/1.0.5/web.browser/service_configuration_common.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/es5-shim/4.1.14/web.browser/.npm/package/node_modules/es5-shim/es5-shim.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/es5-shim/4.1.14/web.browser/.npm/package/node_modules/es5-shim/es5-sham.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/localstorage/1.0.5/web.browser/localstorage.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/fastclick/1.0.7/web.browser/post.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/fastclick/1.0.7/web.browser/fastclick.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/npm-bcrypt/0.7.8_2/web.browser/packages/npm-bcrypt.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/fastclick/1.0.7/web.browser/pre.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-rate-limiter/1.0.0/web.browser/ddp-rate-limiter.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/geojson-utils/1.0.4/web.browser/geojson-utils.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/geojson-utils/1.0.4/web.browser/pre.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/geojson-utils/1.0.4/web.browser/post.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-ui-unstyled/1.1.8/web.browser/accounts_ui.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/html-tools/1.0.5/web.browser/utils.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-ui-unstyled/1.1.8/web.browser/login_buttons_single.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/html-tools/1.0.5/web.browser/charref.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-ui-unstyled/1.1.8/web.browser/login_buttons_dialogs.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/html-tools/1.0.5/web.browser/scanner.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/html-tools/1.0.5/web.browser/parse.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-ui-unstyled/1.1.8/web.browser/login_buttons_session.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/html-tools/1.0.5/web.browser/templatetag.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-ui-unstyled/1.1.8/web.browser/login_buttons.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/html-tools/1.0.5/web.browser/tokenize.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-ui-unstyled/1.1.8/web.browser/login_buttons_dropdown.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/htmljs/1.0.5/web.browser/html.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/htmljs/1.0.5/web.browser/visitors.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/htmljs/1.0.5/web.browser/preamble.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/http/1.1.1/web.browser/httpcall_common.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/kadira_flow-router/2.10.1/web.browser/client/triggers.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/kadira_flow-router/2.10.1/web.browser/client/router.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/kadira_flow-router/2.10.1/web.browser/client/group.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/http/1.1.1/web.browser/httpcall_client.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/kadira_flow-router/2.10.1/web.browser/client/_init.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/http/1.1.1/web.browser/deprecated.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/id-map/1.0.4/web.browser/id-map.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/jquery/1.11.4/web.browser/jquery.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/jquery/1.11.4/web.browser/post.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/spiderable/1.0.9/web.browser/spiderable.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/spiderable/1.0.9/web.browser/spiderable_client.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/raix_handlebar-helpers/0.2.5/web.browser/common.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/raix_handlebar-helpers/0.2.5/web.browser/helpers.operators.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/launch-screen/1.0.4/web.browser/mobile-launch-screen.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/raix_eventemitter/0.1.3/web.browser/packages/raix_eventemitter.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/launch-screen/1.0.4/web.browser/default-behavior.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/msavin_jetsetter/1.5.2/web.browser/client/dirtySession/session/main.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/logging/1.0.8/web.browser/logging.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/msavin_jetsetter/1.5.2/web.browser/client/dirtySession/editor/main.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/msavin_jetsetter/1.5.2/web.browser/client/dirtySession/create/main.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/msavin_jetsetter/1.5.2/web.browser/client/dirtySession/main.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/msavin_jetsetter/1.5.2/web.browser/client/row_header/JetSetter_header.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/msavin_jetsetter/1.5.2/web.browser/client/row_editor/JetSetter_editor.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/msavin_jetsetter/1.5.2/web.browser/client/row_dict/main.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/msavin_jetsetter/1.5.2/web.browser/client/_component/component.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/mongo-id/1.0.1/web.browser/id.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/msavin_jetsetter/1.5.2/web.browser/client/row/main.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/msavin_jetsetter/1.5.2/web.browser/client/main.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ordered-dict/1.0.4/web.browser/ordered_dict.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/msavin_jetsetter/1.5.2/web.browser/client/functions.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/observe-sequence/1.0.7/web.browser/observe_sequence.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/promise/0.5.1/web.browser/.npm/package/node_modules/meteor-promise/promise.bundle.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/msavin_jetsetter/1.5.2/web.browser/style/JetSetter.css" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/momentjs_moment/2.10.6/web.browser/packages/momentjs_moment.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/meteortoys_toykit/2.2.1/web.browser/client/main.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/reactive-dict/1.1.3/web.browser/reactive-dict.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/reactive-dict/1.1.3/web.browser/migration.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/meteortoys_toykit/2.2.1/web.browser/lib/collections.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/meteortoys_toykit/2.2.1/web.browser/style/toykit.css" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/random/1.0.5/web.browser/random.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/random/1.0.5/web.browser/deprecated.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/autoupdate/1.2.4/web.browser/autoupdate_client.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/binary-heap/1.0.4/web.browser/min-max-heap.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/formTypes/readonly.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/binary-heap/1.0.4/web.browser/max-heap.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/formTypes/update.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/formTypes/disabled.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/formTypes/update-pushArray.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/autoform.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/binary-heap/1.0.4/web.browser/min-heap.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/autoform-formdata.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/babel-runtime/0.1.4/web.browser/babel-runtime.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/base64/1.0.4/web.browser/base64.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/formTypes/insert.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/formTypes/method.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/formTypes/method-update.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/formTypes/normal.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.3/web.browser/view.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/autoform-arrays.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.3/web.browser/backcompat.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.3/web.browser/events.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/autoform-common.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.3/web.browser/lookup.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/autoform-hooks.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/zimme_active-route/2.3.2/web.browser/packages/zimme_active-route.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.3/web.browser/builtins.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/autoform-api.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.3/web.browser/attrs.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/autoform-inputs.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.3/web.browser/preamble.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.3/web.browser/dombackend.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/autoform-events.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.3/web.browser/template.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/autoform-validation.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.3/web.browser/domrange.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/form-preserve.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.3/web.browser/exceptions.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/autoform-helpers.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.3/web.browser/materializer.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/utility.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/value-converters.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze-tools/1.0.4/web.browser/tokens.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze-tools/1.0.4/web.browser/preamble.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze-tools/1.0.4/web.browser/tojs.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/1.2.1/web.browser/random_stream.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/1.2.1/web.browser/id_map.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/1.2.1/web.browser/client_convenience.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/1.2.1/web.browser/livedata_connection.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/check/1.1.0/web.browser/match.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/callback-hook/1.0.4/web.browser/hook.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/bootstrap3-inline/bootstrap3-inline.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/bootstrap3-inline/bootstrap3-inline.css" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-common/1.2.2/web.browser/heartbeat.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/plain-fieldset/plain-fieldset.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-common/1.2.2/web.browser/utils.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-common/1.2.2/web.browser/namespace.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/bootstrap3-horizontal/bootstrap3-horizontal.css" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-common/1.2.2/web.browser/method_invocation.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-common/1.2.2/web.browser/random_stream.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/components/quickForm/quickForm.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/1.2.1/web.browser/stream_client_sockjs.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/components/autoForm/autoForm.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/1.2.1/web.browser/livedata_common.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/components/afArrayField/afArrayField.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/1.2.1/web.browser/namespace.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/1.2.1/web.browser/stream_client_common.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/components/afFormGroup/afFormGroup.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/1.2.1/web.browser/sockjs-0.3.4.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/diff-sequence/1.0.1/web.browser/diff.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/bootstrap3/bootstrap3.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/date/date.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/url/url.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/tel/tel.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/components/afEachArrayItem/afEachArrayItem.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/components/afQuickFields/afQuickFields.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/components/afObjectField/afObjectField.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/components/afQuickField/afQuickField.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/components/afFieldInput/afFieldInput.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/month/month.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/image/image.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/email/email.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/color/color.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/week/week.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/time/time.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/text/text.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/file/file.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/search/search.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/select/select.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/hidden/hidden.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/number/number.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/reset/reset.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-password/1.1.4/web.browser/password_client.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/button/button.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/radio/radio.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/range/range.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/boolean-select/boolean-select.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/datetime-local/datetime-local.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/select-radio/select-radio.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/boolean-radios/boolean-radios.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/password/password.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/textarea/textarea.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/submit/submit.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/datetime/datetime.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/select-checkbox-inline/select-checkbox-inline.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/select-radio-inline/select-radio-inline.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/select-checkbox/select-checkbox.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/contenteditable/contenteditable.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/boolean-checkbox/boolean-checkbox.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/select-multiple/select-multiple.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-base/1.2.2/web.browser/globals_client.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-base/1.2.2/web.browser/accounts_client.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-base/1.2.2/web.browser/url_client.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-base/1.2.2/web.browser/localstorage_token.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-base/1.2.2/web.browser/accounts_common.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-base/1.2.2/web.browser/accounts_rate_limit.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/plain/components/afObjectField/afObjectField.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/bootstrap3/components/quickForm/quickForm.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/bootstrap3/components/afFormGroup/afFormGroup.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/plain/components/quickForm/quickForm.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/url/1.0.5/web.browser/url_common.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/url/1.0.5/web.browser/url_client.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/underscore/1.0.4/web.browser/pre.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/underscore/1.0.4/web.browser/post.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/bootstrap3/components/afObjectField/afObjectField.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/underscore/1.0.4/web.browser/underscore.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/bootstrap3/components/afArrayField/afArrayField.css" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/bootstrap3/inputTypes/radio/radio.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/tracker/1.0.9/web.browser/deprecated.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/tracker/1.0.9/web.browser/tracker.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/templating-tools/1.0.0/web.browser/throw-compile-error.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/templating-tools/1.0.0/web.browser/code-generation.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/templating-tools/1.0.0/web.browser/compile-tags-with-spacebars.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/templating-tools/1.0.0/web.browser/templating-tools.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/templating-tools/1.0.0/web.browser/html-scanner.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/spacebars-compiler/1.0.7/web.browser/templatetag.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/spacebars-compiler/1.0.7/web.browser/react.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/bootstrap3/inputTypes/boolean-radios/boolean-radios.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/bootstrap3/inputTypes/select-radio/select-radio.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/spacebars-compiler/1.0.7/web.browser/codegen.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/bootstrap3/inputTypes/select-radio-inline/select-radio-inline.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/spacebars-compiler/1.0.7/web.browser/compiler.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/bootstrap3/inputTypes/select-radio-inline/select-radio-inline.css" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/spacebars-compiler/1.0.7/web.browser/optimizer.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/bootstrap3/inputTypes/select-checkbox-inline/select-checkbox-inline.css" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/bootstrap3/inputTypes/select-checkbox-inline/select-checkbox-inline.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/bootstrap3/inputTypes/select-checkbox/select-checkbox.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/spacebars/1.0.7/web.browser/spacebars-runtime.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/bootstrap3-horizontal/components/afArrayField/afArrayField.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/bootstrap3-horizontal/components/afObjectField/afObjectField.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/bootstrap3-horizontal/components/quickForm/quickForm.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/session/1.1.1/web.browser/session.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/bootstrap3-horizontal/components/afFormGroup/afFormGroup.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/retry/1.0.4/web.browser/retry.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/bootstrap3-horizontal/inputTypes/boolean-checkbox/boolean-checkbox.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/reload/1.1.4/web.browser/reload.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/reload/1.1.4/web.browser/deprecated.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_schema-deny/1.0.1/web.browser/lib/deny.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/reactive-var/1.0.6/web.browser/reactive-var.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_collection2-core/1.1.0/web.browser/lib/collection2.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/srp/1.0.4/web.browser/biginteger.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_schema-index/1.0.1/web.browser/lib/indexing.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_simple-schema/1.5.3/web.browser/simple-schema-context.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_simple-schema/1.5.3/web.browser/simple-schema.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_simple-schema/1.5.3/web.browser/string-polyfills.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_simple-schema/1.5.3/web.browser/string-humanize.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_simple-schema/1.5.3/web.browser/simple-schema-validation.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_simple-schema/1.5.3/web.browser/simple-schema-utility.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_simple-schema/1.5.3/web.browser/simple-schema-validation-new.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_simple-schema/1.5.3/web.browser/mongo-object.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/erasaur_meteor-lodash/4.0.0/web.browser/lodash/lodash.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/erasaur_meteor-lodash/4.0.0/web.browser/export.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/fortawesome_fontawesome/4.5.0/web.browser/upstream/css/font-awesome.css" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/gwendall_auth-client-callbacks/0.1.0/web.browser/packages/gwendall_auth-client-callbacks.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/kadira_blaze-layout/2.3.0/web.browser/lib/client/namespace.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/kadira_blaze-layout/2.3.0/web.browser/lib/client/layout.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/webapp/1.2.3/web.browser/webapp_client.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/kadira_flow-router/2.10.1/web.browser/client.browserify.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/kadira_flow-router/2.10.1/web.browser/lib/router.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/kadira_flow-router/2.10.1/web.browser/client/route.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ecmascript-runtime/0.2.6/web.browser/.npm/package/node_modules/meteor-ecmascript-runtime/client.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/mdg_validation-error/0.2.0/web.browser/validation-error.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/sha/1.0.4/web.browser/sha256.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ejson/1.0.7/web.browser/stringify.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/srp/1.0.4/web.browser/srp.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ejson/1.0.7/web.browser/ejson.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/rate-limit/1.0.0/web.browser/rate-limit.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/es5-shim/4.1.14/web.browser/import_globals.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/es5-shim/4.1.14/web.browser/export_globals.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/es5-shim/4.1.14/web.browser/console.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/service-configuration/1.0.5/web.browser/service_configuration_common.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/es5-shim/4.1.14/web.browser/.npm/package/node_modules/es5-shim/es5-shim.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/localstorage/1.0.5/web.browser/localstorage.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/es5-shim/4.1.14/web.browser/.npm/package/node_modules/es5-shim/es5-sham.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/fastclick/1.0.7/web.browser/post.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/npm-bcrypt/0.7.8_2/web.browser/packages/npm-bcrypt.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/fastclick/1.0.7/web.browser/fastclick.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-rate-limiter/1.0.0/web.browser/ddp-rate-limiter.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/fastclick/1.0.7/web.browser/pre.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/geojson-utils/1.0.4/web.browser/geojson-utils.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/geojson-utils/1.0.4/web.browser/pre.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-ui-unstyled/1.1.8/web.browser/accounts_ui.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/geojson-utils/1.0.4/web.browser/post.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-ui-unstyled/1.1.8/web.browser/login_buttons_single.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/html-tools/1.0.5/web.browser/utils.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-ui-unstyled/1.1.8/web.browser/login_buttons_dialogs.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/html-tools/1.0.5/web.browser/charref.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/html-tools/1.0.5/web.browser/scanner.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/html-tools/1.0.5/web.browser/parse.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-ui-unstyled/1.1.8/web.browser/login_buttons_session.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-ui-unstyled/1.1.8/web.browser/login_buttons.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/html-tools/1.0.5/web.browser/templatetag.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-ui-unstyled/1.1.8/web.browser/login_buttons_dropdown.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/html-tools/1.0.5/web.browser/tokenize.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/htmljs/1.0.5/web.browser/html.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/htmljs/1.0.5/web.browser/visitors.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/htmljs/1.0.5/web.browser/preamble.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/http/1.1.1/web.browser/httpcall_common.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/kadira_flow-router/2.10.1/web.browser/client/triggers.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/kadira_flow-router/2.10.1/web.browser/client/router.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/http/1.1.1/web.browser/httpcall_client.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/kadira_flow-router/2.10.1/web.browser/client/group.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/http/1.1.1/web.browser/deprecated.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/kadira_flow-router/2.10.1/web.browser/client/_init.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/id-map/1.0.4/web.browser/id-map.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/jquery/1.11.4/web.browser/jquery.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/jquery/1.11.4/web.browser/post.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/spiderable/1.0.9/web.browser/spiderable.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/spiderable/1.0.9/web.browser/spiderable_client.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/raix_handlebar-helpers/0.2.5/web.browser/common.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/raix_handlebar-helpers/0.2.5/web.browser/helpers.operators.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/launch-screen/1.0.4/web.browser/mobile-launch-screen.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/raix_eventemitter/0.1.3/web.browser/packages/raix_eventemitter.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/launch-screen/1.0.4/web.browser/default-behavior.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/msavin_jetsetter/1.5.2/web.browser/client/dirtySession/session/main.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/msavin_jetsetter/1.5.2/web.browser/client/dirtySession/editor/main.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/logging/1.0.8/web.browser/logging.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/msavin_jetsetter/1.5.2/web.browser/client/dirtySession/create/main.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/msavin_jetsetter/1.5.2/web.browser/client/dirtySession/main.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/msavin_jetsetter/1.5.2/web.browser/client/row_header/JetSetter_header.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/msavin_jetsetter/1.5.2/web.browser/client/row_editor/JetSetter_editor.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/msavin_jetsetter/1.5.2/web.browser/client/row_dict/main.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/msavin_jetsetter/1.5.2/web.browser/client/_component/component.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/mongo-id/1.0.1/web.browser/id.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/msavin_jetsetter/1.5.2/web.browser/client/row/main.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ordered-dict/1.0.4/web.browser/ordered_dict.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/msavin_jetsetter/1.5.2/web.browser/client/main.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/msavin_jetsetter/1.5.2/web.browser/client/functions.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/observe-sequence/1.0.7/web.browser/observe_sequence.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/promise/0.5.1/web.browser/.npm/package/node_modules/meteor-promise/promise.bundle.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/msavin_jetsetter/1.5.2/web.browser/style/JetSetter.css" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/momentjs_moment/2.10.6/web.browser/packages/momentjs_moment.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/reactive-dict/1.1.3/web.browser/reactive-dict.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/meteortoys_toykit/2.2.1/web.browser/client/main.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/reactive-dict/1.1.3/web.browser/migration.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/meteortoys_toykit/2.2.1/web.browser/lib/collections.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/random/1.0.5/web.browser/random.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/meteortoys_toykit/2.2.1/web.browser/style/toykit.css" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/random/1.0.5/web.browser/deprecated.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/autoupdate/1.2.4/web.browser/autoupdate_client.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/formTypes/readonly.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/binary-heap/1.0.4/web.browser/min-max-heap.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/formTypes/update.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/binary-heap/1.0.4/web.browser/max-heap.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/formTypes/disabled.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/formTypes/update-pushArray.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/autoform.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/autoform-formdata.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/binary-heap/1.0.4/web.browser/min-heap.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/babel-runtime/0.1.4/web.browser/babel-runtime.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/formTypes/insert.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/base64/1.0.4/web.browser/base64.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/formTypes/method.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/formTypes/method-update.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/formTypes/normal.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/autoform-arrays.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.3/web.browser/view.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.3/web.browser/backcompat.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/autoform-common.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.3/web.browser/events.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/autoform-hooks.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.3/web.browser/lookup.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/zimme_active-route/2.3.2/web.browser/packages/zimme_active-route.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/autoform-api.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.3/web.browser/builtins.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/autoform-inputs.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.3/web.browser/attrs.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.3/web.browser/preamble.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/autoform-events.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.3/web.browser/dombackend.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/autoform-validation.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.3/web.browser/template.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/form-preserve.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.3/web.browser/domrange.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/autoform-helpers.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.3/web.browser/exceptions.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/utility.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.3/web.browser/materializer.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/inputTypes/value-converters.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze-tools/1.0.4/web.browser/tokens.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze-tools/1.0.4/web.browser/preamble.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze-tools/1.0.4/web.browser/tojs.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/1.2.1/web.browser/random_stream.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/1.2.1/web.browser/id_map.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/1.2.1/web.browser/client_convenience.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/1.2.1/web.browser/livedata_connection.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/check/1.1.0/web.browser/match.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/callback-hook/1.0.4/web.browser/hook.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/bootstrap3-inline/bootstrap3-inline.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/bootstrap3-inline/bootstrap3-inline.css" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-common/1.2.2/web.browser/heartbeat.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/plain-fieldset/plain-fieldset.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-common/1.2.2/web.browser/utils.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/bootstrap3-horizontal/bootstrap3-horizontal.css" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-common/1.2.2/web.browser/namespace.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-common/1.2.2/web.browser/method_invocation.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-common/1.2.2/web.browser/random_stream.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/components/quickForm/quickForm.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/components/autoForm/autoForm.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/1.2.1/web.browser/stream_client_sockjs.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/components/afArrayField/afArrayField.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/1.2.1/web.browser/livedata_common.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/1.2.1/web.browser/namespace.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/components/afFormGroup/afFormGroup.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/1.2.1/web.browser/stream_client_common.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/1.2.1/web.browser/sockjs-0.3.4.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/diff-sequence/1.0.1/web.browser/diff.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/web.browser/templates/bootstrap3/bootstrap3.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="meteor-packages-auto-import-os" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/mongo-id/1.0.1/os/id.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/npm-mongo/1.4.39_1/os/wrapper.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/minifiers/1.1.7/os/minification.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/logging/1.0.8/os/logging.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/minifiers/1.1.7/os/minifiers.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/reactive-dict/1.1.3/os/reactive-dict.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/reactive-var/1.0.6/os/reactive-var.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/rate-limit/1.0.0/os/rate-limit.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/reactive-dict/1.1.3/os/migration.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/promise/0.5.1/os/promise_server.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/random/1.0.5/os/deprecated.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/random/1.0.5/os/random.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/observe-sequence/1.0.7/os/observe_sequence.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ordered-dict/1.0.4/os/ordered_dict.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/spacebars-compiler/1.0.7/os/compiler.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/spacebars-compiler/1.0.7/os/codegen.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/spacebars-compiler/1.0.7/os/optimizer.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/spacebars/1.0.7/os/spacebars-runtime.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/sha/1.0.4/os/sha256.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/service-configuration/1.0.5/os/service_configuration_server.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/service-configuration/1.0.5/os/service_configuration_common.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/routepolicy/1.0.6/os/routepolicy.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/retry/1.0.4/os/retry.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/templating-tools/1.0.0/os/throw-compile-error.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/templating-tools/1.0.0/os/html-scanner.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/templating-tools/1.0.0/os/templating-tools.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/templating-tools/1.0.0/os/compile-tags-with-spacebars.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/templating-tools/1.0.0/os/code-generation.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/srp/1.0.4/os/biginteger.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/srp/1.0.4/os/srp.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/spacebars-compiler/1.0.7/os/react.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/spacebars-compiler/1.0.7/os/templatetag.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-common/1.2.2/os/utils.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-common/1.2.2/os/namespace.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-common/1.2.2/os/heartbeat.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-rate-limiter/1.0.0/os/ddp-rate-limiter.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-server/1.2.2/os/server_convenience.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-server/1.2.2/os/writefence.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/1.2.1/os/livedata_connection.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/1.2.1/os/stream_client_common.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/1.2.1/os/livedata_common.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/1.2.1/os/namespace.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/1.2.1/os/stream_client_nodejs.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-common/1.2.2/os/method_invocation.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-common/1.2.2/os/random_stream.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ecmascript-runtime/0.2.6/os/runtime.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ejson/1.0.7/os/stringify.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ejson/1.0.7/os/ejson.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/email/1.0.8/os/email.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-server/1.2.2/os/crossbar.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-server/1.2.2/os/stream_server.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-server/1.2.2/os/livedata_server.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/diff-sequence/1.0.1/os/diff.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ecmascript/0.1.6/os/ecmascript.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/geojson-utils/1.0.4/os/post.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/geojson-utils/1.0.4/os/pre.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/geojson-utils/1.0.4/os/geojson-utils.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/html-tools/1.0.5/os/parse.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/html-tools/1.0.5/os/scanner.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/es5-shim/4.1.14/os/export_globals.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/es5-shim/4.1.14/os/import_globals.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/es5-shim/4.1.14/os/.npm/package/node_modules/es5-shim/es5-shim.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/http/1.1.1/os/deprecated.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/http/1.1.1/os/httpcall_server.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/http/1.1.1/os/httpcall_common.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/id-map/1.0.4/os/id-map.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/html-tools/1.0.5/os/templatetag.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/html-tools/1.0.5/os/tokenize.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/html-tools/1.0.5/os/utils.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/html-tools/1.0.5/os/charref.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/htmljs/1.0.5/os/visitors.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/htmljs/1.0.5/os/html.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/htmljs/1.0.5/os/preamble.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/mdg_validation-error/0.2.0/os/validation-error.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/meteortoys_toykit/2.2.1/os/lib/collections.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/momentjs_moment/2.10.6/os/packages/momentjs_moment.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/meteortoys_toykit/2.2.1/os/server/main.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/msavin_jetsetter/1.5.2/os/server/main.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/erasaur_meteor-lodash/4.0.0/os/lodash/lodash.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/gwendall_auth-client-callbacks/0.1.0/os/packages/gwendall_auth-client-callbacks.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/kadira_flow-router/2.10.1/os/server/router.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/kadira_flow-router/2.10.1/os/server/route.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/kadira_flow-router/2.10.1/os/lib/router.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/binary-heap/1.0.4/os/min-heap.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/kadira_flow-router/2.10.1/os/server/plugins/fast_render.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/kadira_flow-router/2.10.1/os/server/_init.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/kadira_flow-router/2.10.1/os/server/group.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.3/os/view.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.3/os/exceptions.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_schema-index/1.0.1/os/lib/indexing.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.3/os/backcompat.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.3/os/lookup.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_simple-schema/1.5.3/os/string-humanize.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.3/os/builtins.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_simple-schema/1.5.3/os/string-polyfills.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.3/os/preamble.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_simple-schema/1.5.3/os/simple-schema.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.3/os/template.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_simple-schema/1.5.3/os/simple-schema-context.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_simple-schema/1.5.3/os/mongo-object.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_simple-schema/1.5.3/os/simple-schema-validation-new.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/boilerplate-generator/1.0.4/os/boilerplate-generator.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_simple-schema/1.5.3/os/simple-schema-utility.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_simple-schema/1.5.3/os/simple-schema-validation.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze-tools/1.0.4/os/tokens.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze-tools/1.0.4/os/tojs.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze-tools/1.0.4/os/preamble.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/erasaur_meteor-lodash/4.0.0/os/export.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/caching-html-compiler/1.0.2/os/caching-html-compiler.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/caching-compiler/1.0.0/os/multi-file-caching-compiler.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/caching-compiler/1.0.0/os/caching-compiler.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/os/autoform-common.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/1.2.1/os/id_map.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/1.2.1/os/random_stream.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_collection2-core/1.1.0/os/lib/collection2.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/check/1.1.0/os/match.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/callback-hook/1.0.4/os/hook.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_schema-deny/1.0.1/os/lib/deny.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/tracker/1.0.9/os/deprecated.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/tracker/1.0.9/os/tracker.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/underscore/1.0.4/os/underscore.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/underscore/1.0.4/os/pre.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/underscore/1.0.4/os/post.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/url/1.0.5/os/url_common.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/url/1.0.5/os/url_server.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/webapp-hashing/1.0.5/os/webapp-hashing.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/webapp/1.2.3/os/webapp_server.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-base/1.2.2/os/accounts_common.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-base/1.2.2/os/accounts_rate_limit.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-base/1.2.2/os/url_server.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-base/1.2.2/os/accounts_server.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-base/1.2.2/os/globals_server.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-password/1.1.4/os/email_templates.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-password/1.1.4/os/password_server.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/babel-compiler/5.8.24_1/os/babel.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/spiderable/1.0.9/os/spiderable_server.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/spiderable/1.0.9/os/spiderable.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/autoupdate/1.2.4/os/autoupdate_server.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/raix_eventemitter/0.1.3/os/packages/raix_eventemitter.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/babel-runtime/0.1.4/os/babel-runtime.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/raix_handlebar-helpers/0.2.5/os/common.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/babel-compiler/5.8.24_1/os/babel-compiler.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/zimme_active-route/2.3.2/os/packages/zimme_active-route.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/binary-heap/1.0.4/os/min-max-heap.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/binary-heap/1.0.4/os/max-heap.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/base64/1.0.4/os/base64.js" />
+          <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/spiderable/1.0.9/os/packages/spiderable/phantom_script.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/mongo-id/1.0.1/os/id.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/npm-mongo/1.4.39_1/os/wrapper.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/minifiers/1.1.7/os/minification.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/logging/1.0.8/os/logging.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/minifiers/1.1.7/os/minifiers.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/reactive-dict/1.1.3/os/reactive-dict.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/reactive-var/1.0.6/os/reactive-var.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/rate-limit/1.0.0/os/rate-limit.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/reactive-dict/1.1.3/os/migration.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/promise/0.5.1/os/promise_server.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/random/1.0.5/os/deprecated.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/random/1.0.5/os/random.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/observe-sequence/1.0.7/os/observe_sequence.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ordered-dict/1.0.4/os/ordered_dict.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/spacebars-compiler/1.0.7/os/compiler.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/spacebars-compiler/1.0.7/os/codegen.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/spacebars-compiler/1.0.7/os/optimizer.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/spacebars/1.0.7/os/spacebars-runtime.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/sha/1.0.4/os/sha256.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/service-configuration/1.0.5/os/service_configuration_server.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/service-configuration/1.0.5/os/service_configuration_common.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/routepolicy/1.0.6/os/routepolicy.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/retry/1.0.4/os/retry.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/templating-tools/1.0.0/os/throw-compile-error.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/templating-tools/1.0.0/os/html-scanner.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/templating-tools/1.0.0/os/templating-tools.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/templating-tools/1.0.0/os/compile-tags-with-spacebars.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/templating-tools/1.0.0/os/code-generation.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/srp/1.0.4/os/biginteger.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/srp/1.0.4/os/srp.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/spacebars-compiler/1.0.7/os/react.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/spacebars-compiler/1.0.7/os/templatetag.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-common/1.2.2/os/utils.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-common/1.2.2/os/namespace.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-common/1.2.2/os/heartbeat.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-rate-limiter/1.0.0/os/ddp-rate-limiter.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-server/1.2.2/os/server_convenience.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-server/1.2.2/os/writefence.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/1.2.1/os/livedata_connection.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/1.2.1/os/stream_client_common.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/1.2.1/os/livedata_common.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/1.2.1/os/namespace.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/1.2.1/os/stream_client_nodejs.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-common/1.2.2/os/method_invocation.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-common/1.2.2/os/random_stream.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ecmascript-runtime/0.2.6/os/runtime.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ejson/1.0.7/os/stringify.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ejson/1.0.7/os/ejson.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/email/1.0.8/os/email.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-server/1.2.2/os/crossbar.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-server/1.2.2/os/stream_server.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-server/1.2.2/os/livedata_server.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/diff-sequence/1.0.1/os/diff.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ecmascript/0.1.6/os/ecmascript.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/geojson-utils/1.0.4/os/post.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/geojson-utils/1.0.4/os/pre.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/geojson-utils/1.0.4/os/geojson-utils.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/html-tools/1.0.5/os/parse.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/html-tools/1.0.5/os/scanner.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/es5-shim/4.1.14/os/export_globals.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/es5-shim/4.1.14/os/import_globals.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/es5-shim/4.1.14/os/.npm/package/node_modules/es5-shim/es5-shim.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/http/1.1.1/os/deprecated.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/http/1.1.1/os/httpcall_server.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/http/1.1.1/os/httpcall_common.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/id-map/1.0.4/os/id-map.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/html-tools/1.0.5/os/templatetag.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/html-tools/1.0.5/os/tokenize.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/html-tools/1.0.5/os/utils.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/html-tools/1.0.5/os/charref.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/htmljs/1.0.5/os/visitors.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/htmljs/1.0.5/os/html.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/htmljs/1.0.5/os/preamble.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/mdg_validation-error/0.2.0/os/validation-error.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/meteortoys_toykit/2.2.1/os/lib/collections.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/momentjs_moment/2.10.6/os/packages/momentjs_moment.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/meteortoys_toykit/2.2.1/os/server/main.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/msavin_jetsetter/1.5.2/os/server/main.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/erasaur_meteor-lodash/4.0.0/os/lodash/lodash.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/gwendall_auth-client-callbacks/0.1.0/os/packages/gwendall_auth-client-callbacks.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/kadira_flow-router/2.10.1/os/server/router.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/kadira_flow-router/2.10.1/os/server/route.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/kadira_flow-router/2.10.1/os/lib/router.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/binary-heap/1.0.4/os/min-heap.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/kadira_flow-router/2.10.1/os/server/plugins/fast_render.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/kadira_flow-router/2.10.1/os/server/_init.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/kadira_flow-router/2.10.1/os/server/group.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.3/os/view.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_schema-index/1.0.1/os/lib/indexing.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.3/os/exceptions.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.3/os/backcompat.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_simple-schema/1.5.3/os/string-humanize.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.3/os/lookup.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_simple-schema/1.5.3/os/string-polyfills.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.3/os/builtins.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_simple-schema/1.5.3/os/simple-schema.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.3/os/preamble.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_simple-schema/1.5.3/os/simple-schema-context.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.1.3/os/template.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_simple-schema/1.5.3/os/mongo-object.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_simple-schema/1.5.3/os/simple-schema-validation-new.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_simple-schema/1.5.3/os/simple-schema-utility.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/boilerplate-generator/1.0.4/os/boilerplate-generator.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_simple-schema/1.5.3/os/simple-schema-validation.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze-tools/1.0.4/os/tokens.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze-tools/1.0.4/os/tojs.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze-tools/1.0.4/os/preamble.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/erasaur_meteor-lodash/4.0.0/os/export.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/caching-html-compiler/1.0.2/os/caching-html-compiler.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/caching-compiler/1.0.0/os/multi-file-caching-compiler.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/caching-compiler/1.0.0/os/caching-compiler.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_autoform/5.8.1/os/autoform-common.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/1.2.1/os/id_map.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-client/1.2.1/os/random_stream.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_collection2-core/1.1.0/os/lib/collection2.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/check/1.1.0/os/match.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/aldeed_schema-deny/1.0.1/os/lib/deny.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/callback-hook/1.0.4/os/hook.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/tracker/1.0.9/os/deprecated.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/tracker/1.0.9/os/tracker.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/underscore/1.0.4/os/underscore.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/underscore/1.0.4/os/pre.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/underscore/1.0.4/os/post.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/url/1.0.5/os/url_common.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/url/1.0.5/os/url_server.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/webapp-hashing/1.0.5/os/webapp-hashing.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/webapp/1.2.3/os/webapp_server.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-base/1.2.2/os/accounts_common.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-base/1.2.2/os/accounts_rate_limit.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-base/1.2.2/os/url_server.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-base/1.2.2/os/accounts_server.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-base/1.2.2/os/globals_server.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-password/1.1.4/os/email_templates.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/accounts-password/1.1.4/os/password_server.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/babel-compiler/5.8.24_1/os/babel.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/spiderable/1.0.9/os/spiderable_server.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/autoupdate/1.2.4/os/autoupdate_server.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/spiderable/1.0.9/os/spiderable.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/babel-runtime/0.1.4/os/babel-runtime.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/raix_eventemitter/0.1.3/os/packages/raix_eventemitter.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/babel-compiler/5.8.24_1/os/babel-compiler.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/raix_handlebar-helpers/0.2.5/os/common.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/binary-heap/1.0.4/os/min-max-heap.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/zimme_active-route/2.3.2/os/packages/zimme_active-route.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/binary-heap/1.0.4/os/max-heap.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/base64/1.0.4/os/base64.js" />
+        <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/spiderable/1.0.9/os/packages/spiderable/phantom_script.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
