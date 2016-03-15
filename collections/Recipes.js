@@ -2,29 +2,29 @@
  * Created by a9jr5626 on 3/14/16.
  */
 
-Recipes = new Meteor.collection('recipes');
+Recipes = new Meteor.Collection('recipes');
 
 RecipeSchema = new SimpleSchema({
-    name:{
+    name: {
         type: String,
         label: "Name"
     },
-    desc:{
+    desc: {
         type: String,
         label: "Desciption"
     },
-    author:{
+    author: {
         type: String,
         label: "Author",
-        autoValue: function(){
+        autoValue: function () {
             return this.userId;
         }
     },
-    createAt:{
-        type: String,
+    createAt: {
+        type: Date,
         label: "Created At",
-        autoValue: function(){
-            return new Date()
+        autoValue: function () {
+            return new Date();
         }
     }
 });
