@@ -2,11 +2,20 @@
  * Created by a9jr5626 on 3/14/16.
  */
 
-Recipes = new Meteor.Collection('recipes');
+Recipes = new Mongo.Collection('recipes');
 
 Recipes.allow({
     insert: function (userId, doc) {    //allow insert when signed in.
         return !!userId;
+    }
+});
+
+Ingredient = new SimpleSchema({
+    name: {
+        type: String
+    },
+    amount: {
+        type: String
     }
 });
 
@@ -18,6 +27,17 @@ RecipeSchema = new SimpleSchema({
     desc: {
         type: String,
         label: "Desciption"
+    },
+    ingredients: {
+        type: [Ingredient]
+    },
+    inMenu: {
+        type: Boolean,
+        defaultValue: false,
+        optional: true,
+        autoform: {
+            type: "hidden"
+        }
     },
     author: {
         type: String,
