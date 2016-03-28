@@ -15,10 +15,12 @@ Recipes.allow({
 
 Ingredient = new SimpleSchema({
     name: {
-        type: String
+        type: String,
+        label: "Nama"
     },
     amount: {
-        type: String
+        type: String,
+        label: "Amount"
     }
 });
 

@@ -2,7 +2,7 @@
  * Created by Juniar_R on 3/18/2016.
  */
 
-Template.RecipeSingle.onCreated(function () {
+Template.RecipeDetails.onCreated(function () {
     var self = this;
     self.autorun(function () {
         var id = FlowRouter.getParam('id');
@@ -10,7 +10,7 @@ Template.RecipeSingle.onCreated(function () {
     });
 });
 
-Template.RecipeSingle.helpers({
+Template.RecipeDetails.helpers({
     recipe: ()=> {
         var id = FlowRouter.getParam('id');
         return Recipes.findOne({_id: id});
